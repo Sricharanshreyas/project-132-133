@@ -1,0 +1,15 @@
+document.getElementById("button_1st").onclick=function(){
+    window.location="first.html";
+}
+document.getElementById("button_2nd").onclick=function(){
+    window.location="second.html";
+}
+document.getElementById("button_3rd").onclick=function(){
+    window.location="third.html";
+}
+document.getElementById("button_4th").onclick=function(){
+    window.location="fourth.html";
+}
+document.getElementById("button_5th").onclick=function(){
+    window.location="fifth.html";
+}
